@@ -12,7 +12,7 @@
 
 | 名称                  | 说明                           |
 | --------------------- | ------------------------------ |
-| EVER_PHOTO_MOBILE     | 时光相册用户账号 **必须**      |
+| EVER_PHOTO_MOBILE     | 时光相册用户账号 **必须**      | 
 | EVER_PHOTO_PASSWORD   | 时光相册用户密码 **必须**      |
 | DINGTALK_ACCESS_TOKEN | 钉钉推送access_token（非必须） |
 | DINGTALK_SECRET       | 钉钉推送secret（非必须）       |
